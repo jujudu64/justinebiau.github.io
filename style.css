@@ -1,0 +1,155 @@
+body { background: #ffd8cc; text-align: center; }
+
+
+
+h1 { color: #ffd8cc; font-family: 'Caveat', cursive; }
+
+h2{
+  color: #ffbd9b;
+  font-family: arial , cursive; 
+
+}
+
+p{
+  font-family: arial;
+}
+
+h3{ text-align: left;
+  }
+
+ul{
+  text-align: center;
+}
+
+li{text-align: center;
+}
+
+h3{ color: #03506f;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Epilogue', sans-serif;
+ }
+
+h4{
+  text-align: center;
+  color: #0a1d37;
+  font-size: 30px;
+  font-family: 'Caveat' , cursive;
+}
+
+h5{
+  color: #ffbd9b;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Caveat' , cursive;
+  margin-bottom: 30px;
+}
+
+
+h6{
+  font-size: 40px;
+  color:#f54748;
+  font-family: 'Caveat' , cursive;
+}
+
+a{ color: brown; }
+
+h7{
+  font-size: 40px;
+  color:#f54748;
+  font-family: 'Caveat' , cursive;
+}
+
+
+.avatar {border-radius: 100%; 
+     width: 300px;
+     height: 350px;
+     object-fit: cover;
+     border: 10px solid pink;
+     box-shadow: 10px 10px 10px grey ;
+
+}
+
+.imageprem {
+	border-radius: 50px;
+}
+
+.imagedeux{
+  border-radius:50px;
+}
+
+.imagetr{
+  border-radius:50px;
+}
+
+.vid{
+  margin-top: 50px
+}
+
+.cadros {
+  background: #deedf0;
+	border: 4px dashed #e4fbff;
+	margin: 100px  auto;
+	padding: 50px;
+	width: 700px;
+
+  }
+
+.drapeau {
+  
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.blue {
+  background: blue;
+  height: 200px;
+  width: 100px;
+}
+
+.white {
+  background: white;
+  height: 200px;
+  width: 100px;
+}
+
+.red {
+  background: red;
+  height: 200px;
+  width: 100px;
+}
+
+
+
+.my-navbar{
+  background: #e4fbff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bop{
+  border-radius: 100%;
+  width: 200px;
+}
+
+.menu{
+  display: flex;
+  align-items: space-between;
+  justify-content: space-between;
+  padding: 50px
+}
+
+
+
+.item{
+  margin: 10px 30px;
+  display: flex-end;
+}
+
+
+  iframe {margin}
